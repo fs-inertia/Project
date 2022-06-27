@@ -37,7 +37,7 @@ const fetchPrice = async(ctype,cutype) =>{
         Property
     </td>
     <td>
-        Value ${cutype}
+        Value (${cutype})
     </td>
 </tr>
 <tr>
